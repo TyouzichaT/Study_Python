@@ -1,4 +1,26 @@
+----------------------------------------------------------------------------------------------------------------
 1. Install Anaconda 3
 2. install and configure Pycharm
 
-details: https://www.cnblogs.com/yuxuefeng/articles/9235431.html
+Details: https://www.cnblogs.com/yuxuefeng/articles/9235431.html
+----------------------------------------------------------------------------------------------------------------
+1. cmd(command) and dos(disk operating system)
+
+win+R, input'cmd'
+'x:' switch disk
+'cd' switch directory
+'dir' check the folders and files in current directory
+'..' go up one level
+'table'key auto-completion input
+'md' create a folder
+'rd' delete a folder
+'del' delete a file
+'cls' clean the window
+
+grammar of dos: 'command' [parameter][option]
+
+2.environment variable--variables in operating system--amend the environment variable to configure the computer
+
+includes user variable and system variable. one variable for one or several values.
+
+'PATH':several paths are stored in the variable. when accessing a file or folder, system will find it in the current direectory, then in 'PATH' in sequence
